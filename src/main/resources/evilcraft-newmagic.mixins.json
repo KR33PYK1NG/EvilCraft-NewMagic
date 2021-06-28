@@ -1,0 +1,12 @@
+{
+    "minVersion": "0.8",
+    "refmap": "evilcraft-newmagic.refmap.json",
+    "package": "rmc.mixins.evilcraft_newmagic.inject",
+    "mixins": [
+        "BlockDarkOreConfigMixin",
+        "BlockInfestedNetherConfigMixin",
+        "ConfigHandlerMixin",
+        "WorldFeatureEvilDungeonConfigMixin",
+        "WorldStructureDarkTempleConfigMixin"
+    ]
+}
